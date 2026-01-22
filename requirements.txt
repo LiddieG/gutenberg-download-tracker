@@ -1,6 +1,4 @@
 requests
 beautifulsoup4
 pandas
-
-python-dateutil
-loguru
+lxml
