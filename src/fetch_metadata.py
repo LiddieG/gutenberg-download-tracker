@@ -4,6 +4,13 @@ from bs4 import BeautifulSoup
 
 GUTENBERG_TOP_100_URL = "https://www.gutenberg.org/browse/scores/top"
 
+def parse_book_id(book_url: str) -> str:
+    """
+    Extract the Gutenberg book ID from an ebook URL.
+    Example: https://www.gutenberg.org/ebooks/1342 -> 1342
+    """
+    return book_url.rstrip("/").split("/")[-1]
+
 
 def fetch_top_books():
     """
@@ -31,10 +38,14 @@ def fetch_top_books():
         title = link.text.strip()
         book_url = "https://www.gutenberg.org" + link["href"]
 
+        book_id = parse_book_id(book_url)
+
         books.append({
             "title": title,
-            "book_url": book_url
+            "book_url": book_url,
+            "book_id": book_id  
         })
+
 
     return books
 
@@ -42,3 +53,4 @@ def fetch_top_books():
 if __name__ == "__main__":
     data = fetch_top_books()
     print(f"Fetched {len(data)} books")
+
