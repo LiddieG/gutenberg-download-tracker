@@ -54,3 +54,50 @@ if __name__ == "__main__":
     data = fetch_top_books()
     print(f"Fetched {len(data)} books")
 
+def fetch_book_metadata(book_url: str) -> dict:
+    """
+    Fetch metadata for a single Gutenberg book page.
+    """
+    response = requests.get(book_url, timeout=30)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, "lxml")
+
+    metadata = {
+        "title": None,
+        "author": [],
+        "language": None,
+        "subjects": [],
+        "bookshelves": []
+    }
+
+    table = soup.find("table", class_="bibrec")
+    if not table:
+        return metadata
+
+    for row in table.find_all("tr"):
+        header = row.find("th")
+        value = row.find("td")
+
+        if not header or not value:
+            continue
+
+        label = header.text.strip()
+        text = value.text.strip()
+
+        if label == "Title":
+            metadata["title"] = text
+
+        elif label == "Author":
+            metadata["author"].append(text)
+
+        elif label == "Language":
+            metadata["language"] = text
+
+        elif label == "Subject":
+            metadata["subjects"].append(text)
+
+        elif label == "Bookshelf":
+            metadata["bookshelves"].append(text)
+
+    return metadata

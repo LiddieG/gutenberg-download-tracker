@@ -1,16 +1,18 @@
-from fetch_metadata import fetch_top_books
+from fetch_metadata import fetch_book_metadata, fetch_top_books
 from pprint import pprint
 
 
 
 def main():
     books = fetch_top_books()
-    print(f"Weekly scrape complete. Collected {len(books)} books.\n")
+    first_book = books[0]
 
-    if books:
-        print("First record:")
-        pprint(books[0])
+    print("Top book:")
+    pprint(first_book)
 
+    print("\nMetadata:")
+    metadata = fetch_book_metadata(first_book["book_url"])
+    pprint(metadata)
 
 if __name__ == "__main__":
     main()
