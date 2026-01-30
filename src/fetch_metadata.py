@@ -1,3 +1,13 @@
+import logging
+from logger import setup_logger
+
+setup_logger()
+
+logging.info("Fetching Gutenberg metadata")
+logging.warning("No downloads found for this book")
+logging.error("Request failed")
+
+
 import requests
 from bs4 import BeautifulSoup
 

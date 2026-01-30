@@ -17,3 +17,11 @@ def main():
 if __name__ == "__main__":
     main()
 
+from datetime import date
+import shutil
+
+today = date.today().isoformat()
+shutil.copy(
+    "data/processed/downloads.csv",
+    f"data/history/downloads_{today}.csv"
+)
