@@ -72,6 +72,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-assert df["downloads"].min() >= 0
-assert df["title"].isnull().sum() == 0

@@ -1,0 +1,40 @@
+2026-01-30 11:01:01,146 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:01:01,146 - WARNING - No downloads found for this book
+2026-01-30 11:01:01,146 - ERROR - Request failed
+2026-01-30 11:01:01,147 - INFO - Starting download count fetch
+2026-01-30 11:01:49,363 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:01:49,403 - WARNING - No downloads found for this book
+2026-01-30 11:01:49,404 - ERROR - Request failed
+2026-01-30 11:01:49,405 - INFO - Starting download count fetch
+2026-01-30 11:02:10,647 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:02:10,648 - WARNING - No downloads found for this book
+2026-01-30 11:02:10,648 - ERROR - Request failed
+2026-01-30 11:02:43,114 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:02:43,114 - WARNING - No downloads found for this book
+2026-01-30 11:02:43,114 - ERROR - Request failed
+2026-01-30 11:02:43,115 - INFO - Starting download count fetch
+2026-01-30 11:31:45,905 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:31:45,906 - WARNING - No downloads found for this book
+2026-01-30 11:31:45,906 - ERROR - Request failed
+2026-01-30 11:31:48,689 - INFO - Fetched 100 top books
+2026-01-30 11:34:36,486 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:34:36,488 - WARNING - No downloads found for this book
+2026-01-30 11:34:36,488 - ERROR - Request failed
+2026-01-30 11:34:39,600 - INFO - Fetched 100 top books
+2026-01-30 11:35:39,627 - ERROR - Failed to fetch metadata for https://www.gutenberg.org/ebooks/76: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-30 11:37:38,827 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:37:38,828 - WARNING - No downloads found for this book
+2026-01-30 11:37:38,828 - ERROR - Request failed
+2026-01-30 11:42:31,818 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:42:31,818 - WARNING - No downloads found for this book
+2026-01-30 11:42:31,818 - ERROR - Request failed
+2026-01-30 11:52:51,589 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:52:51,590 - WARNING - No downloads found for this book
+2026-01-30 11:52:51,590 - ERROR - Request failed
+2026-01-30 11:52:53,231 - INFO - Fetched 100 books
+2026-01-30 11:55:20,181 - INFO - Saved metadata to src\data\processed\metadata.csv
+2026-01-30 11:55:46,530 - INFO - Fetching Gutenberg metadata
+2026-01-30 11:55:46,531 - WARNING - No downloads found for this book
+2026-01-30 11:55:46,531 - ERROR - Request failed
+2026-01-30 11:55:47,902 - INFO - Fetched 100 books
+2026-01-30 11:58:18,347 - INFO - Saved metadata to src\data\processed\metadata.csv
