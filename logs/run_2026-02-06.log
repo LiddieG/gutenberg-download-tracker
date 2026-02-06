@@ -1,0 +1,275 @@
+2026-02-06 09:53:16,737 - INFO - Fetching Gutenberg metadata
+2026-02-06 09:53:16,737 - WARNING - No downloads found for this book
+2026-02-06 09:53:16,738 - ERROR - Request failed
+2026-02-06 09:54:38,342 - INFO - Fetching Gutenberg metadata
+2026-02-06 09:54:38,343 - WARNING - No downloads found for this book
+2026-02-06 09:54:38,343 - ERROR - Request failed
+2026-02-06 09:54:38,343 - INFO - Starting download count fetch
+2026-02-06 09:55:08,764 - INFO - Fetching Gutenberg metadata
+2026-02-06 09:55:08,764 - WARNING - No downloads found for this book
+2026-02-06 09:55:08,764 - ERROR - Request failed
+2026-02-06 09:55:09,780 - INFO - Fetched 100 books
+2026-02-06 09:56:20,881 - INFO - Saved metadata to src\data\processed\metadata.csv
+2026-02-06 10:14:43,273 - INFO - Fetching Gutenberg metadata
+2026-02-06 10:14:43,274 - WARNING - No downloads found for this book
+2026-02-06 10:14:43,274 - ERROR - Request failed
+2026-02-06 10:14:44,489 - INFO - Fetched 100 books
+2026-02-06 10:25:24,511 - INFO - Starting download count fetch
+2026-02-06 10:25:52,794 - INFO - Fetching Gutenberg metadata
+2026-02-06 10:25:52,795 - WARNING - No downloads found for this book
+2026-02-06 10:25:52,795 - ERROR - Request failed
+2026-02-06 10:25:54,005 - INFO - Fetched 100 books
+2026-02-06 11:23:54,338 - INFO - Fetching Gutenberg metadata
+2026-02-06 11:23:54,340 - WARNING - No downloads found for this book
+2026-02-06 11:23:54,340 - ERROR - Request failed
+2026-02-06 11:23:55,712 - INFO - Fetched 100 books
+2026-02-06 11:43:20,028 - INFO - Starting download count fetch
+2026-02-06 11:43:36,520 - INFO - Fetching Gutenberg metadata
+2026-02-06 11:43:36,521 - WARNING - No downloads found for this book
+2026-02-06 11:43:36,521 - ERROR - Request failed
+2026-02-06 11:43:37,709 - INFO - Fetched 100 books
+2026-02-06 12:40:00,059 - INFO - Starting download count fetch
+2026-02-06 12:43:05,943 - INFO - Fetching Gutenberg metadata
+2026-02-06 12:43:05,943 - WARNING - No downloads found for this book
+2026-02-06 12:43:05,943 - ERROR - Request failed
+2026-02-06 12:43:07,159 - INFO - Fetched 100 books
+2026-02-06 12:57:37,727 - INFO - Starting Gutenberg metadata fetch
+2026-02-06 12:57:38,704 - INFO - [1/100] Fetching metadata for: Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (6638)
+2026-02-06 12:57:39,789 - INFO - [2/100] Fetching metadata for: Moby Dick; Or, The Whale by Herman Melville (4142)
+2026-02-06 12:57:40,738 - INFO - [3/100] Fetching metadata for: The San Francisco Calamity by Earthquake and Fire by Charles Morris (3733)
+2026-02-06 12:57:41,743 - INFO - [4/100] Fetching metadata for: Pride and Prejudice by Jane Austen (3451)
+2026-02-06 12:57:42,870 - INFO - [5/100] Fetching metadata for: Romeo and Juliet by William Shakespeare (2872)
+2026-02-06 12:57:43,785 - INFO - [6/100] Fetching metadata for: Wuthering Heights by Emily Brontë (2869)
+2026-02-06 12:57:44,551 - INFO - [7/100] Fetching metadata for: A Room with a View by E. M.  Forster (2213)
+2026-02-06 12:57:45,637 - INFO - [8/100] Fetching metadata for: Jane Eyre: An Autobiography by Charlotte Brontë (2199)
+2026-02-06 12:57:46,551 - INFO - [9/100] Fetching metadata for: The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson (2191)
+2026-02-06 12:57:47,345 - INFO - [10/100] Fetching metadata for: The Complete Works of William Shakespeare by William Shakespeare (2161)
+2026-02-06 12:57:48,312 - INFO - [11/100] Fetching metadata for: Middlemarch by George Eliot (1984)
+2026-02-06 12:57:49,101 - INFO - [12/100] Fetching metadata for: The Great Gatsby by F. Scott  Fitzgerald (1957)
+2026-02-06 12:57:49,891 - INFO - [13/100] Fetching metadata for: Alice's Adventures in Wonderland by Lewis Carroll (1954)
+2026-02-06 12:57:50,634 - INFO - [14/100] Fetching metadata for: Little Women; Or, Meg, Jo, Beth, and Amy by Louisa May Alcott (1820)
+2026-02-06 12:57:51,398 - INFO - [15/100] Fetching metadata for: The Blue Castle: a novel by L. M.  Montgomery (1778)
+2026-02-06 12:57:52,201 - INFO - [16/100] Fetching metadata for: Crime and Punishment by Fyodor Dostoyevsky (1740)
+2026-02-06 12:57:53,013 - INFO - [17/100] Fetching metadata for: The Jargon File, Version 4.2.2, 20 Aug 2000 (1648)
+2026-02-06 12:57:53,822 - INFO - [18/100] Fetching metadata for: Beowulf: An Anglo-Saxon Epic Poem (1613)
+2026-02-06 12:57:54,588 - INFO - [19/100] Fetching metadata for: The Enchanted April by Elizabeth Von Arnim (1570)
+2026-02-06 12:57:55,400 - INFO - [20/100] Fetching metadata for: My Life — Volume 1 by Richard Wagner (1537)
+2026-02-06 12:57:56,391 - INFO - [21/100] Fetching metadata for: Cranford by Elizabeth Cleghorn Gaskell (1517)
+2026-02-06 12:57:57,161 - INFO - [22/100] Fetching metadata for: Adventures of Huckleberry Finn by Mark Twain (1515)
+2026-02-06 12:57:57,938 - INFO - [23/100] Fetching metadata for: The Picture of Dorian Gray by Oscar Wilde (1505)
+2026-02-06 12:57:58,769 - INFO - [24/100] Fetching metadata for: The Expedition of Humphry Clinker by T.  Smollett (1484)
+2026-02-06 12:57:59,772 - INFO - [25/100] Fetching metadata for: A Modest Proposal by Jonathan Swift (1476)
+2026-02-06 12:58:00,710 - INFO - [26/100] Fetching metadata for: A Doll's House : a play by Henrik Ibsen (1475)
+2026-02-06 12:58:01,535 - INFO - [27/100] Fetching metadata for: Twenty years after by Alexandre Dumas and Auguste Maquet (1467)
+2026-02-06 12:58:02,380 - INFO - [28/100] Fetching metadata for: The Adventures of Ferdinand Count Fathom — Complete by T.  Smollett (1466)
+2026-02-06 12:58:03,182 - INFO - [29/100] Fetching metadata for: History of Tom Jones, a Foundling by Henry Fielding (1434)
+2026-02-06 12:58:04,406 - INFO - [30/100] Fetching metadata for: The Importance of Being Earnest: A Trivial Comedy for Serious People by Oscar Wilde (1422)
+2026-02-06 12:58:05,398 - INFO - [31/100] Fetching metadata for: A Tale of Two Cities by Charles Dickens (1398)
+2026-02-06 12:58:06,429 - INFO - [32/100] Fetching metadata for: The Adventures of Roderick Random by T.  Smollett (1398)
+2026-02-06 12:58:07,211 - INFO - [33/100] Fetching metadata for: Dracula by Bram Stoker (1385)
+2026-02-06 12:58:07,995 - INFO - [34/100] Fetching metadata for: The King in Yellow by Robert W.  Chambers (1363)
+2026-02-06 12:58:08,776 - INFO - [35/100] Fetching metadata for: The Yellow Wallpaper by Charlotte Perkins Gilman (1255)
+2026-02-06 12:58:09,803 - INFO - [36/100] Fetching metadata for: The Brothers Karamazov by Fyodor Dostoyevsky (1247)
+2026-02-06 12:58:11,449 - INFO - [37/100] Fetching metadata for: The Adventures of Sherlock Holmes by Arthur Conan Doyle (1241)
+2026-02-06 12:58:12,284 - INFO - [38/100] Fetching metadata for: Simple Sabotage Field Manual by United States. Office of Strategic Services (1238)
+2026-02-06 12:58:13,035 - INFO - [39/100] Fetching metadata for: The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet (1206)
+2026-02-06 12:58:13,832 - INFO - [40/100] Fetching metadata for: The psychology of Jung by James Oppenheim (1120)
+2026-02-06 12:58:14,580 - INFO - [41/100] Fetching metadata for: \u8089\u84b2\u5718 by Yu Li (1117)
+2026-02-06 12:58:15,401 - INFO - [42/100] Fetching metadata for: The Poems of Giacomo Leopardi by Giacomo Leopardi (1115)
+2026-02-06 12:58:16,245 - INFO - [43/100] Fetching metadata for: The Prince by Niccolò Machiavelli (1099)
+2026-02-06 12:58:17,152 - INFO - [44/100] Fetching metadata for: The Scarlet Letter by Nathaniel Hawthorne (1095)
+2026-02-06 12:58:18,117 - INFO - [45/100] Fetching metadata for: Leviathan by Thomas Hobbes (1086)
+2026-02-06 12:58:18,848 - INFO - [46/100] Fetching metadata for: The Adventures of Tom Sawyer, Complete by Mark Twain (1075)
+2026-02-06 12:58:19,573 - INFO - [47/100] Fetching metadata for: Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau (1074)
+2026-02-06 12:58:20,287 - INFO - [48/100] Fetching metadata for: Great Expectations by Charles Dickens (1052)
+2026-02-06 12:58:21,075 - INFO - [49/100] Fetching metadata for: \u97d3\u8a69\u5916\u50b3, Complete by active 150 B.C. Ying Han (1038)
+2026-02-06 12:58:21,947 - INFO - [50/100] Fetching metadata for: Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm (1033)
+2026-02-06 12:58:22,730 - INFO - [51/100] Fetching metadata for: The Iliad by Homer (1023)
+2026-02-06 12:58:23,550 - INFO - [52/100] Fetching metadata for: \u591c\u96e8\u79cb\u71c8\u9304 by Ding Xuan (998)
+2026-02-06 12:58:24,317 - INFO - [53/100] Fetching metadata for: The Souls of Black Folk by W. E. B.  Du Bois (985)
+2026-02-06 12:58:25,055 - INFO - [54/100] Fetching metadata for: Metamorphosis by Franz Kafka (958)
+2026-02-06 12:58:25,850 - INFO - [55/100] Fetching metadata for: The curse of the painted cliffs by W. C.  Tuttle (955)
+2026-02-06 12:58:26,629 - INFO - [56/100] Fetching metadata for: Thus Spake Zarathustra: A Book for All and None by Friedrich Wilhelm Nietzsche (953)
+2026-02-06 12:58:27,551 - INFO - [57/100] Fetching metadata for: Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass (950)
+2026-02-06 12:58:28,347 - INFO - [58/100] Fetching metadata for: Moby Multiple Language Lists of Common Words by Grady Ward (947)
+2026-02-06 12:58:29,197 - INFO - [59/100] Fetching metadata for: Ulysses by James Joyce (936)
+2026-02-06 12:58:29,959 - INFO - [60/100] Fetching metadata for: Technique of modern tactics by P. S. Bond and M. J. McDonough (914)
+2026-02-06 12:58:30,772 - INFO - [61/100] Fetching metadata for: Sir Thomas More (904)
+2026-02-06 12:58:31,627 - INFO - [62/100] Fetching metadata for: White nights, and other stories by Fyodor Dostoyevsky (895)
+2026-02-06 12:58:32,520 - INFO - [63/100] Fetching metadata for: Noli Me Tangere by José Rizal (891)
+2026-02-06 12:58:33,555 - INFO - [64/100] Fetching metadata for: Second Treatise of Government by John Locke (884)
+2026-02-06 12:58:34,453 - INFO - [65/100] Fetching metadata for: Oedipus King of Thebes by Sophocles (880)
+2026-02-06 12:58:35,208 - INFO - [66/100] Fetching metadata for: The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe (861)
+2026-02-06 12:58:35,996 - INFO - [67/100] Fetching metadata for: The Confessions of St. Augustine by Saint of Hippo Augustine (861)
+2026-02-06 12:58:36,818 - INFO - [68/100] Fetching metadata for: War and Peace by graf Leo Tolstoy (857)
+2026-02-06 12:58:38,054 - INFO - [69/100] Fetching metadata for: Treasure Island by Robert Louis Stevenson (855)
+2026-02-06 12:58:38,869 - INFO - [70/100] Fetching metadata for: Life on the Mississippi by Mark Twain (851)
+2026-02-06 12:58:39,707 - INFO - [71/100] Fetching metadata for: Anne of Green Gables by L. M.  Montgomery (851)
+2026-02-06 12:58:40,458 - INFO - [72/100] Fetching metadata for: Tractatus Logico-Philosophicus by Ludwig Wittgenstein (850)
+2026-02-06 12:58:41,241 - INFO - [73/100] Fetching metadata for: Ang "Filibusterismo" (Karugtóng ng Noli Me Tangere) by José Rizal (849)
+2026-02-06 12:58:42,013 - INFO - [74/100] Fetching metadata for: Early English Meals and Manners (823)
+2026-02-06 12:58:42,754 - INFO - [75/100] Fetching metadata for: The Odyssey by Homer (810)
+2026-02-06 12:58:43,605 - INFO - [76/100] Fetching metadata for: The Wonderful Wizard of Oz by L. Frank  Baum (804)
+2026-02-06 12:58:44,368 - INFO - [77/100] Fetching metadata for: The Hound of the Baskervilles by Arthur Conan Doyle (796)
+2026-02-06 12:58:45,233 - INFO - [78/100] Fetching metadata for: Sense and Sensibility by Jane Austen (764)
+2026-02-06 12:58:46,008 - INFO - [79/100] Fetching metadata for: Beyond Good and Evil by Friedrich Wilhelm Nietzsche (761)
+2026-02-06 12:58:46,884 - INFO - [80/100] Fetching metadata for: \u5357\u8154\u5317\u8abf\u96c6 by Xun Lu (752)
+2026-02-06 12:58:48,439 - INFO - [81/100] Fetching metadata for: The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano (739)
+2026-02-06 12:58:49,237 - INFO - [82/100] Fetching metadata for: The lesser Key of Solomon, Goetia, the book of evil spirits : (725)
+2026-02-06 12:58:50,000 - INFO - [83/100] Fetching metadata for: Doctrina Christiana (720)
+2026-02-06 12:58:50,898 - INFO - [84/100] Fetching metadata for: \u8033\u98df\u9304 by Jun Yue (719)
+2026-02-06 12:58:51,674 - INFO - [85/100] Fetching metadata for: The Republic by Plato (718)
+2026-02-06 12:58:52,433 - INFO - [86/100] Fetching metadata for: The divine comedy by Dante Alighieri (714)
+2026-02-06 12:58:53,483 - INFO - [87/100] Fetching metadata for: Heath's Modern Language Series: The Spanish American Reader by Ernesto Nelson (708)
+2026-02-06 12:58:54,308 - INFO - [88/100] Fetching metadata for: Meditations by Emperor of Rome Marcus Aurelius (704)
+2026-02-06 12:58:55,080 - INFO - [89/100] Fetching metadata for: \u9e9f\u5152\u5831 by Anonymous (700)
+2026-02-06 12:58:56,071 - INFO - [90/100] Fetching metadata for: \u72d0\u72f8\u7de3\u5168\u50b3 by active 1804-1876 Zuiyueshanren (699)
+2026-02-06 12:58:56,854 - INFO - [91/100] Fetching metadata for: Candide by Voltaire (693)
+2026-02-06 12:58:57,691 - INFO - [92/100] Fetching metadata for: Anna Karenina by graf Leo Tolstoy (691)
+2026-02-06 12:58:58,459 - INFO - [93/100] Fetching metadata for: A Study in Scarlet by Arthur Conan Doyle (674)
+2026-02-06 12:58:59,333 - INFO - [94/100] Fetching metadata for: \u5922\u4e2d\u7de3 by jin shi 1715 Xiuxing Li (671)
+2026-02-06 12:59:00,214 - INFO - [95/100] Fetching metadata for: Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (664)
+2026-02-06 12:59:01,645 - INFO - [96/100] Fetching metadata for: \u6c60\u5317\u5076\u8ac7 by Shizhen Wang (660)
+2026-02-06 12:59:02,443 - INFO - [97/100] Fetching metadata for: Don Quijote by Miguel de Cervantes Saavedra (638)
+2026-02-06 12:59:03,219 - INFO - [98/100] Fetching metadata for: Peter Pan : by J. M.  Barrie (626)
+2026-02-06 12:59:04,023 - INFO - [99/100] Fetching metadata for: Don Quixote by Miguel de Cervantes Saavedra (625)
+2026-02-06 12:59:04,798 - INFO - [100/100] Fetching metadata for: Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (623)
+2026-02-06 12:59:05,590 - INFO - Saved metadata to data\raw\metadata.csv
+2026-02-06 12:59:06,860 - INFO - Starting Gutenberg download count fetch
+2026-02-06 12:59:06,880 - INFO - [1/100] Fetching downloads for: Frankenstein; Or, The Modern Prometheus (ID: 84)
+2026-02-06 12:59:08,252 - INFO - [2/100] Fetching downloads for: Moby Dick; Or, The Whale (ID: 2701)
+2026-02-06 12:59:09,344 - INFO - [3/100] Fetching downloads for: The San Francisco Calamity by Earthquake and Fire (ID: 1560)
+2026-02-06 12:59:10,489 - INFO - [4/100] Fetching downloads for: Pride and Prejudice (ID: 1342)
+2026-02-06 12:59:11,580 - INFO - [5/100] Fetching downloads for: Romeo and Juliet (ID: 1513)
+2026-02-06 12:59:12,758 - INFO - [6/100] Fetching downloads for: Wuthering Heights (ID: 768)
+2026-02-06 12:59:13,862 - INFO - [7/100] Fetching downloads for: A Room with a View (ID: 2641)
+2026-02-06 12:59:14,957 - INFO - [8/100] Fetching downloads for: Jane Eyre: An Autobiography (ID: 1260)
+2026-02-06 12:59:16,067 - INFO - [9/100] Fetching downloads for: The Strange Case of Dr. Jekyll and Mr. Hyde (ID: 43)
+2026-02-06 12:59:17,241 - INFO - [10/100] Fetching downloads for: The Complete Works of William Shakespeare (ID: 100)
+2026-02-06 12:59:18,377 - INFO - [11/100] Fetching downloads for: Middlemarch (ID: 145)
+2026-02-06 12:59:19,498 - INFO - [12/100] Fetching downloads for: The Great Gatsby (ID: 64317)
+2026-02-06 12:59:20,606 - INFO - [13/100] Fetching downloads for: Alice's Adventures in Wonderland (ID: 11)
+2026-02-06 12:59:21,760 - INFO - [14/100] Fetching downloads for: Little Women; Or, Meg, Jo, Beth, and Amy (ID: 37106)
+2026-02-06 12:59:22,847 - INFO - [15/100] Fetching downloads for: The Blue Castle: a novel (ID: 67979)
+2026-02-06 12:59:24,073 - INFO - [16/100] Fetching downloads for: Crime and Punishment (ID: 2554)
+2026-02-06 12:59:25,195 - INFO - [17/100] Fetching downloads for: The Jargon File, Version 4.2.2, 20 Aug 2000 (ID: 3008)
+2026-02-06 12:59:26,422 - INFO - [18/100] Fetching downloads for: Beowulf: An Anglo-Saxon Epic Poem (ID: 16328)
+2026-02-06 12:59:27,745 - INFO - [19/100] Fetching downloads for: The Enchanted April (ID: 16389)
+2026-02-06 12:59:28,909 - INFO - [20/100] Fetching downloads for: My Life — Volume 1 (ID: 5197)
+2026-02-06 12:59:30,004 - INFO - [21/100] Fetching downloads for: Cranford (ID: 394)
+2026-02-06 12:59:31,128 - INFO - [22/100] Fetching downloads for: Adventures of Huckleberry Finn (ID: 76)
+2026-02-06 12:59:32,311 - INFO - [23/100] Fetching downloads for: The Picture of Dorian Gray (ID: 174)
+2026-02-06 12:59:33,408 - INFO - [24/100] Fetching downloads for: The Expedition of Humphry Clinker (ID: 2160)
+2026-02-06 12:59:34,498 - INFO - [25/100] Fetching downloads for: A Modest ProposalFor preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick (ID: 1080)
+2026-02-06 12:59:35,577 - INFO - [26/100] Fetching downloads for: A Doll's House : a play (ID: 2542)
+2026-02-06 12:59:36,736 - INFO - [27/100] Fetching downloads for: Twenty years after (ID: 1259)
+2026-02-06 12:59:37,939 - INFO - [28/100] Fetching downloads for: The Adventures of Ferdinand Count Fathom — Complete (ID: 6761)
+2026-02-06 12:59:39,035 - INFO - [29/100] Fetching downloads for: History of Tom Jones, a Foundling (ID: 6593)
+2026-02-06 12:59:40,250 - INFO - [30/100] Fetching downloads for: The Importance of Being Earnest: A Trivial Comedy for Serious People (ID: 844)
+2026-02-06 12:59:41,405 - INFO - [31/100] Fetching downloads for: A Tale of Two Cities (ID: 98)
+2026-02-06 12:59:42,565 - INFO - [32/100] Fetching downloads for: The Adventures of Roderick Random (ID: 4085)
+2026-02-06 12:59:43,837 - INFO - [33/100] Fetching downloads for: Dracula (ID: 345)
+2026-02-06 12:59:44,957 - INFO - [34/100] Fetching downloads for: The King in Yellow (ID: 8492)
+2026-02-06 12:59:46,006 - WARNING - Failed to fetch downloads for book 8492: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/8492/
+2026-02-06 12:59:46,110 - INFO - [35/100] Fetching downloads for: The Yellow Wallpaper (ID: 1952)
+2026-02-06 12:59:47,246 - INFO - [36/100] Fetching downloads for: The Brothers Karamazov (ID: 28054)
+2026-02-06 12:59:48,048 - WARNING - Failed to fetch downloads for book 28054: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/28054
+2026-02-06 12:59:48,151 - INFO - [37/100] Fetching downloads for: The Adventures of Sherlock Holmes (ID: 1661)
+2026-02-06 12:59:49,237 - INFO - [38/100] Fetching downloads for: Simple Sabotage Field Manual (ID: 26184)
+2026-02-06 12:59:50,315 - INFO - [39/100] Fetching downloads for: The Count of Monte Cristo (ID: 1184)
+2026-02-06 12:59:51,463 - INFO - [40/100] Fetching downloads for: The psychology of Jung (ID: 77864)
+2026-02-06 12:59:52,569 - INFO - [41/100] Fetching downloads for: \u8089\u84b2\u5718 (ID: 52205)
+2026-02-06 12:59:53,719 - INFO - [42/100] Fetching downloads for: The Poems of Giacomo Leopardi (ID: 19315)
+2026-02-06 12:59:54,566 - WARNING - Failed to fetch downloads for book 19315: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/19315
+2026-02-06 12:59:54,670 - INFO - [43/100] Fetching downloads for: The Prince (ID: 1232)
+2026-02-06 12:59:55,777 - INFO - [44/100] Fetching downloads for: The Scarlet Letter (ID: 25344)
+2026-02-06 12:59:56,607 - WARNING - Failed to fetch downloads for book 25344: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/25344
+2026-02-06 12:59:56,714 - INFO - [45/100] Fetching downloads for: Leviathan (ID: 3207)
+2026-02-06 12:59:57,814 - INFO - [46/100] Fetching downloads for: The Adventures of Tom Sawyer, Complete (ID: 74)
+2026-02-06 12:59:58,653 - WARNING - Failed to fetch downloads for book 74: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/74
+2026-02-06 12:59:58,756 - INFO - [47/100] Fetching downloads for: Walden, and On The Duty Of Civil Disobedience (ID: 205)
+2026-02-06 12:59:59,946 - INFO - [48/100] Fetching downloads for: Great Expectations (ID: 1400)
+2026-02-06 13:00:00,764 - WARNING - Failed to fetch downloads for book 1400: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/1400
+2026-02-06 13:00:00,869 - INFO - [49/100] Fetching downloads for: \u97d3\u8a69\u5916\u50b3, Complete (ID: 7290)
+2026-02-06 13:00:01,775 - WARNING - Failed to fetch downloads for book 7290: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/7290
+2026-02-06 13:00:01,879 - INFO - [50/100] Fetching downloads for: Grimms' Fairy Tales (ID: 2591)
+2026-02-06 13:00:02,699 - WARNING - Failed to fetch downloads for book 2591: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/2591
+2026-02-06 13:00:02,801 - INFO - [51/100] Fetching downloads for: The Iliad (ID: 6130)
+2026-02-06 13:00:04,101 - INFO - [52/100] Fetching downloads for: \u591c\u96e8\u79cb\u71c8\u9304 (ID: 25130)
+2026-02-06 13:00:05,429 - INFO - [53/100] Fetching downloads for: The Souls of Black Folk (ID: 408)
+2026-02-06 13:00:06,248 - WARNING - Failed to fetch downloads for book 408: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/408
+2026-02-06 13:00:06,350 - INFO - [54/100] Fetching downloads for: Metamorphosis (ID: 5200)
+2026-02-06 13:00:08,753 - INFO - [55/100] Fetching downloads for: The curse of the painted cliffs (ID: 77862)
+2026-02-06 13:00:09,591 - WARNING - Failed to fetch downloads for book 77862: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/77862
+2026-02-06 13:00:09,693 - INFO - [56/100] Fetching downloads for: Thus Spake Zarathustra: A Book for All and None (ID: 1998)
+2026-02-06 13:00:13,383 - INFO - [57/100] Fetching downloads for: Narrative of the Life of Frederick Douglass, an American Slave (ID: 23)
+2026-02-06 13:00:14,226 - WARNING - Failed to fetch downloads for book 23: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/23
+2026-02-06 13:00:14,330 - INFO - [58/100] Fetching downloads for: Moby Multiple Language Lists of Common Words (ID: 3206)
+2026-02-06 13:00:15,155 - WARNING - Failed to fetch downloads for book 3206: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/3206
+2026-02-06 13:00:15,260 - INFO - [59/100] Fetching downloads for: Ulysses (ID: 4300)
+2026-02-06 13:00:16,565 - INFO - [60/100] Fetching downloads for: Technique of modern tactics (ID: 77863)
+2026-02-06 13:00:17,377 - WARNING - Failed to fetch downloads for book 77863: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/77863
+2026-02-06 13:00:17,480 - INFO - [61/100] Fetching downloads for: Sir Thomas More (ID: 1547)
+2026-02-06 13:00:18,716 - INFO - [62/100] Fetching downloads for: White nights, and other stories (ID: 36034)
+2026-02-06 13:00:19,547 - WARNING - Failed to fetch downloads for book 36034: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/36034
+2026-02-06 13:00:19,651 - INFO - [63/100] Fetching downloads for: Noli Me Tangere (ID: 20228)
+2026-02-06 13:00:20,767 - INFO - [64/100] Fetching downloads for: Second Treatise of Government (ID: 7370)
+2026-02-06 13:00:21,619 - WARNING - Failed to fetch downloads for book 7370: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/7370
+2026-02-06 13:00:21,722 - INFO - [65/100] Fetching downloads for: Oedipus King of ThebesTranslated into English Rhyming Verse with Explanatory Notes (ID: 27673)
+2026-02-06 13:00:22,849 - INFO - [66/100] Fetching downloads for: The Works of Edgar Allan Poe — Volume 2 (ID: 2148)
+2026-02-06 13:00:24,017 - INFO - [67/100] Fetching downloads for: The Confessions of St. Augustine (ID: 3296)
+2026-02-06 13:00:25,007 - WARNING - Failed to fetch downloads for book 3296: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/3296
+2026-02-06 13:00:25,108 - INFO - [68/100] Fetching downloads for: War and Peace (ID: 2600)
+2026-02-06 13:00:25,932 - WARNING - Failed to fetch downloads for book 2600: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/2600
+2026-02-06 13:00:26,034 - INFO - [69/100] Fetching downloads for: Treasure Island (ID: 120)
+2026-02-06 13:00:26,842 - WARNING - Failed to fetch downloads for book 120: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/120
+2026-02-06 13:00:26,946 - INFO - [70/100] Fetching downloads for: Life on the Mississippi (ID: 245)
+2026-02-06 13:00:28,288 - INFO - [71/100] Fetching downloads for: Anne of Green Gables (ID: 45)
+2026-02-06 13:00:29,175 - WARNING - Failed to fetch downloads for book 45: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/45
+2026-02-06 13:00:29,279 - INFO - [72/100] Fetching downloads for: Tractatus Logico-Philosophicus (ID: 5740)
+2026-02-06 13:00:30,555 - INFO - [73/100] Fetching downloads for: Ang "Filibusterismo" (Karugtóng ng Noli Me Tangere) (ID: 47629)
+2026-02-06 13:00:31,528 - WARNING - Failed to fetch downloads for book 47629: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/47629
+2026-02-06 13:00:31,630 - INFO - [74/100] Fetching downloads for: Early English Meals and Manners (ID: 24790)
+2026-02-06 13:00:33,123 - INFO - [75/100] Fetching downloads for: The OdysseyRendered into English prose for the use of those who cannot read the original (ID: 1727)
+2026-02-06 13:00:34,591 - INFO - [76/100] Fetching downloads for: The Wonderful Wizard of Oz (ID: 55)
+2026-02-06 13:00:35,784 - INFO - [77/100] Fetching downloads for: The Hound of the Baskervilles (ID: 2852)
+2026-02-06 13:00:36,587 - WARNING - Failed to fetch downloads for book 2852: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/2852
+2026-02-06 13:00:36,689 - INFO - [78/100] Fetching downloads for: Sense and Sensibility (ID: 161)
+2026-02-06 13:00:37,600 - WARNING - Failed to fetch downloads for book 161: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/161
+2026-02-06 13:00:37,705 - INFO - [79/100] Fetching downloads for: Beyond Good and Evil (ID: 4363)
+2026-02-06 13:00:39,069 - INFO - [80/100] Fetching downloads for: \u5357\u8154\u5317\u8abf\u96c6 (ID: 25346)
+2026-02-06 13:00:40,454 - INFO - [81/100] Fetching downloads for: The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The AfricanWritten By Himself (ID: 15399)
+2026-02-06 13:00:41,514 - WARNING - Failed to fetch downloads for book 15399: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/15399
+2026-02-06 13:00:41,619 - INFO - [82/100] Fetching downloads for: The lesser Key of Solomon, Goetia, the book of evil spirits :  contains two hundred diagrams and seals for invocation and convocation of spirits, necromancy, witchcraft and black art (ID: 72679)
+2026-02-06 13:00:42,944 - INFO - [83/100] Fetching downloads for: Doctrina ChristianaThe first book printed in the Philippines, Manila, 1593. (ID: 16119)
+2026-02-06 13:00:44,276 - INFO - [84/100] Fetching downloads for: \u8033\u98df\u9304 (ID: 27459)
+2026-02-06 13:00:45,305 - WARNING - Failed to fetch downloads for book 27459: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/27459
+2026-02-06 13:00:45,411 - INFO - [85/100] Fetching downloads for: The Republic (ID: 1497)
+2026-02-06 13:00:46,852 - INFO - [86/100] Fetching downloads for: The divine comedy (ID: 8800)
+2026-02-06 13:00:47,676 - WARNING - Failed to fetch downloads for book 8800: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/8800
+2026-02-06 13:00:47,779 - INFO - [87/100] Fetching downloads for: Heath's Modern Language Series: The Spanish American Reader (ID: 39647)
+2026-02-06 13:00:48,743 - WARNING - Failed to fetch downloads for book 39647: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/39647
+2026-02-06 13:00:48,846 - INFO - [88/100] Fetching downloads for: Meditations (ID: 2680)
+2026-02-06 13:00:50,411 - INFO - [89/100] Fetching downloads for: \u9e9f\u5152\u5831 (ID: 27399)
+2026-02-06 13:00:52,220 - WARNING - Failed to fetch downloads for book 27399: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/27399
+2026-02-06 13:00:52,323 - INFO - [90/100] Fetching downloads for: \u72d0\u72f8\u7de3\u5168\u50b3 (ID: 25323)
+2026-02-06 13:00:53,329 - WARNING - Failed to fetch downloads for book 25323: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/25323
+2026-02-06 13:00:53,433 - INFO - [91/100] Fetching downloads for: Candide (ID: 19942)
+2026-02-06 13:00:54,366 - WARNING - Failed to fetch downloads for book 19942: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/19942
+2026-02-06 13:00:54,470 - INFO - [92/100] Fetching downloads for: Anna Karenina (ID: 1399)
+2026-02-06 13:00:55,522 - WARNING - Failed to fetch downloads for book 1399: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/1399
+2026-02-06 13:00:55,624 - INFO - [93/100] Fetching downloads for: A Study in Scarlet (ID: 244)
+2026-02-06 13:00:56,644 - WARNING - Failed to fetch downloads for book 244: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/244
+2026-02-06 13:00:56,748 - INFO - [94/100] Fetching downloads for: \u5922\u4e2d\u7de3 (ID: 23908)
+2026-02-06 13:00:57,803 - WARNING - Failed to fetch downloads for book 23908: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/23908
+2026-02-06 13:00:57,906 - INFO - [95/100] Fetching downloads for: Frankenstein; Or, The Modern Prometheus (ID: 41445)
+2026-02-06 13:00:58,833 - WARNING - Failed to fetch downloads for book 41445: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/41445
+2026-02-06 13:00:58,938 - INFO - [96/100] Fetching downloads for: \u6c60\u5317\u5076\u8ac7 (ID: 25162)
+2026-02-06 13:01:00,645 - INFO - [97/100] Fetching downloads for: Don Quijote (ID: 2000)
+2026-02-06 13:01:04,014 - INFO - [98/100] Fetching downloads for: Peter Pan :  [Peter and Wendy] (ID: 16)
+2026-02-06 13:01:06,339 - INFO - [99/100] Fetching downloads for: Don Quixote (ID: 996)
+2026-02-06 13:01:07,253 - WARNING - Failed to fetch downloads for book 996: 429 Client Error: Too Many Requests for url: https://gutendex.com/books/996
+2026-02-06 13:01:07,357 - INFO - [100/100] Fetching downloads for: Frankenstein; Or, The Modern Prometheus (ID: 42324)
+2026-02-06 13:01:10,643 - INFO - Saved download data to data\processed\downloads.csv
+2026-02-06 13:03:05,433 - INFO - Starting Gutenberg metadata fetch
+2026-02-06 13:03:07,052 - INFO - Copied downloads.csv to data\history\downloads_2026-02-06.csv
